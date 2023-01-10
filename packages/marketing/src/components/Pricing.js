@@ -78,7 +78,7 @@ const tiers = [
       '10 users included',
       '2 GB of storage',
       'Help center access',
-      'Email support',
+      'Email suppo',
     ],
     buttonText: 'Sign up for free',
     buttonVariant: 'outlined',

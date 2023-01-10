@@ -25,7 +25,7 @@
     <div class="p-col-12 p-md-6 p-xl-3">
       <div class="highlight-box">
         <div class="initials" style="background-color: #007be5; color: #00448f">
-          <span>TV</span>
+          <span>TELE</span>
         </div>
         <div class="highlight-details">
           <i class="pi pi-search"></i>
